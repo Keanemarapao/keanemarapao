@@ -17,6 +17,7 @@ I'm a CompTIA Security+ certified Cybersecurity professional.
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-PuTTY-000000?&style=for-the-badge&logo=PuTTY&logoColor=white" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=for-the-badge" />
 </div>
 
 ### ITSM
