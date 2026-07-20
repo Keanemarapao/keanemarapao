@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Keane!
+<a href="https://www.linkedin.com/in/keane-marapao/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Keanemarapao/keanemarapao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CompTIA Security+ certified Cybersecurity professional.
 
-Here are some ideas to get you started:
+## Projects
+- [Ubuntu Linux Server Homelab](https://github.com/Keanemarapao/Home-SOC-Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PuTTY-000000?&style=for-the-badge&logo=PuTTY&logoColor=white" />
+</div>
+
+### ITSM
+<div>
+    <img src="https://img.shields.io/badge/-ServiceNow-1DB954?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+</div>
+
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
