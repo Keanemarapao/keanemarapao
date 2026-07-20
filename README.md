@@ -8,6 +8,7 @@ I'm a CompTIA Security+ certified Cybersecurity professional.
 
 ## Certifications
 <div>
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
